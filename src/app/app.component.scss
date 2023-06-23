@@ -1,0 +1,14 @@
+:root {
+    --primary-color: rgb(32, 32, 111);
+}
+
+.home-bg {
+    background: #ffd500;
+    min-height: 100vh;
+}
+
+.sized-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
